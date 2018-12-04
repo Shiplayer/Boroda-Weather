@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Boroda Weather</string>
+    <string name="api_key_weather">94556265–1002–48c6–9f9e-1d72db08f96a</string>
+    <string name="api_key_geocoder">3d55e093–3c1a-4e3f-9fbd-c11fd64cb534</string>
+    <string name="yandex_url_icon">https://yastatic.net/weather/i/icons/blueye/color/svg/url_icon.svg</string>
 </resources>
